@@ -19,7 +19,7 @@
 
 # :eight_spoked_asterisk: Опис проекту
 ##  Лабораторна робота №1
-<a href="https://drive.google.com/open?id=1EVdBYxlNSbm0zKB6qL-cdYyhshZjlIyG">Частина 1 (Вступ до ЕМПІ)</a><br>
+<a href="https://github.com/vovachuck/EMPI/blob/master/Lakusta_Volodymyr_lab_1.ipynb">Частина 1 (Вступ до ЕМПІ)</a><br>
 В даній лабораторній роботі було розглянуто і виконано наступні завдання:
 * підключення датасету та приведення його даних до нормального вигляду
 * мода і медіана 
@@ -28,23 +28,12 @@
 * варіаційний ряд та середнє арифметичне колонки
 
 ##  Лабораторна робота №2
-<a href="https://drive.google.com/open?id=1ZLko7LF7r9XVQG3hY30IAC8K_fxEoDJK">Частина 2 (Основи візуалізації проблем через дані)</a><br>
+<a href="https://github.com/vovachuck/EMPI/blob/master/Lakusta_Volodymyr_lab_2.ipynb">Частина 2 (Основи візуалізації проблем через дані)</a><br>
 В даній лабораторній роботі було розглянуто і виконано наступні завдання:
 * 10 абсолютно різних графіків до датасету.
 
-##  Лабораторна робота №3
-<a href="https://drive.google.com/open?id=1qVLahHOdvIIe8vva5IVbOvVF6torduVm">Частина 3 (Порівняння середніх)</a><br>
-В даній лабораторній роботі було розглянуто і виконано наступні завдання:
-* T-розподіл Стьюдента
-* T-розподіл Стьюдента для двох середніх значень
-* QQ-plot
-* Однофакторний дисперсійний аналіз
-* T-test та KS-test
-* Спеціальний тест для нормального розподілу
-* Порівняння двох прикладів
-
 ##  Лабораторна робота №4
-<a href="https://drive.google.com/open?id=1OyxuKqDWnN8K6EIPkvLwhtR2p9dlbl-Y">Частина 4 (Кореляція та регресія)</a><br>
+<a href="https://github.com/vovachuck/EMPI/blob/master/Lakusta_Volodymyr_lab_4.ipynb">Частина 3 (Кореляція та регресія)</a><br>
 В даній лабораторній роботі було розглянуто і виконано наступні завдання:
 * Кореляція
 * p-рівень значимості 
